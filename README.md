@@ -1,15 +1,16 @@
-
 ```
- _                                             
-| |                                            
-| |__   __ _ _ __   __ _ _ __ ___   __ _ _ __  
-| '_ \ / _` | '_ \ / _` | '_ ` _ \ / _` | '_ \ 
+ _
+| |
+| |__   __ _ _ __   __ _ _ __ ___   __ _ _ __
+| '_ \ / _` | '_ \ / _` | '_ ` _ \ / _` | '_ \
 | | | | (_| | | | | (_| | | | | | | (_| | | | |
 |_| |_|\__,_|_| |_|\__, |_| |_| |_|\__,_|_| |_|
-                    __/ |                      
-                   |___/  
+                    __/ |
+                   |___/
 ```
+
 Classical game "Hangman" in terminal using Python
+
 ```python
   +---+
   |   |
@@ -21,6 +22,7 @@ Classical game "Hangman" in terminal using Python
 ```
 
 To play run:
+
 ```bash
-$ python3 ps3_hangman.py
+$ python3 main.py
 ```
