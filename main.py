@@ -135,4 +135,4 @@ def hangman(secretWord: str):
 
 
 secretWord = chooseWord(wordlist).lower()
-hangman('brah')
+hangman(secretWord)
